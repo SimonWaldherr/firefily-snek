@@ -1,7 +1,7 @@
-author_id = "lux"
-app_id = "snek"
-author_name = "Lux"
-app_name = "Snek"
+author_id = "sim"
+app_id = "snekdev"
+author_name = "Sim"
+app_name = "SnekDev"
 
 [files]
 font = { path = "font.fff", url = "https://fonts.fireflyzero.com/fonts/ascii/eg_4x6.fff", sha256 = "dd90ec6478b7cab75e73abde35e76ef3e7e08a2682be83a5ef859607e41e4e68" }
